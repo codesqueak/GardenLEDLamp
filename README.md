@@ -1,4 +1,4 @@
-# A Garden Lamp Solar Project (...and no software to be seen anywhere ...)
+# A Solar Garden Light Project (...and no software to be seen anywhere ...)
 
 Keywords: Garden light, solar light, LED, solar, circuit, QX5252F
 
