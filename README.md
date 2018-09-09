@@ -42,11 +42,15 @@ battery holders are common and cheap to obtain from eBay, thus solving the prote
 The battery holder is then affixed onto the base of the solar cell using a silicone sealant.  
 Make sure to use a 'non-corrosive' type as some will attack various materials including copper.
 
-### Built Up Circuit
+### Built Up Circuit - Front
 
 <img src="images/device.png"/>
 
+### Built Up Circuit - Back
+
 <img src="images/back.png"/>
+
+Not the best image - the camera seemed to have problems with the shiny copper surface.
 
 Note: For testing, the solar cell, battery and LED are broken out on 2.54mm Dupont connector pins.  For long environmental life you may
 want to solder the connecting wires before coating the whole unit with a conformal coating / liquid tape etc
