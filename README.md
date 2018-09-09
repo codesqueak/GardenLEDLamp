@@ -1,5 +1,7 @@
 # A Garden Lamp Solar Project (...and no software to be seen anywhere ...)
 
+Keywords: Garden light, solar light, LED, solar, circuit, QX5252F
+
 ## The Problem
 
 I have a number of post type solar garden lamps, with small circular solar cells at the top.  These suffer from a number of problems:
@@ -46,14 +48,14 @@ Make sure to use a 'non-corrosive' type as some will attack various materials in
 
 <img src="images/device.png"/>
 
+Note: For testing, the solar cell, battery and LED are broken out on 2.54mm Dupont connector pins.  For long environmental life you may
+want to solder the connecting wires before coating the whole unit with a conformal coating / liquid tape etc
+
 ### Built Up Circuit - Back
 
 <img src="images/back.png"/>
 
 Not the best image - the camera seemed to have problems with the shiny copper surface.
-
-Note: For testing, the solar cell, battery and LED are broken out on 2.54mm Dupont connector pins.  For long environmental life you may
-want to solder the connecting wires before coating the whole unit with a conformal coating / liquid tape etc
 
 ### Component Size Comparison 
 
