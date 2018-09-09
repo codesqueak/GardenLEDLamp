@@ -46,6 +46,11 @@ Make sure to use a 'non-corrosive' type as some will attack various materials in
 
 <img src="images/device.png"/>
 
-### Size Comparison 
+<img src="images/back.png"/>
+
+Note: For testing, the solar cell, battery and LED are broken out on 2.54mm Dupont connector pins.  For long environmental life you may
+want to solder the connecting wires before coating the whole unit with a conformal coating / liquid tape etc
+
+### Component Size Comparison 
 
 <img src="images/components.png"/>
