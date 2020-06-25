@@ -1,4 +1,4 @@
-# A Garden Lamp Solar Project (...and no software to be seen anywhere ...)
+# A Solar Garden Light Project (...and no software to be seen anywhere ...)
 
 Keywords: Garden light, solar light, LED, solar, circuit, QX5252F
 
@@ -8,7 +8,7 @@ I have a number of post type solar garden lamps, with small circular solar cells
 
 * The cell is too small to supply adequate power in the winter
 * The plastic coating on the cell degrades and becomes opaque
-* They suffer from corrosion
+* The electronics suffer from corrosion
 * The illumination level is low
 
 
