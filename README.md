@@ -1,6 +1,6 @@
 # A Solar Garden Light Project (...and no software to be seen anywhere ...)
 
-Keywords: Garden light, solar light, LED, solar, circuit, QX5252F
+Keywords: Garden light, solar light, LED, solar, circuit, QX5252F, oshpark, jlcpcb
 
 ## The Problem
 
@@ -31,7 +31,7 @@ After looking at and testing various designs / component values I found the foll
 | QX5252F | TO-94 |  [Datasheet](https://www.mikrocontroller.net/attachment/158139/QX5252.pdf) |
 | Solar Cell | 2.5V | Select something that will supply adequate power in winter |
 | Inductor | 100µH | Alter this values to control the available current |
-| Ni-MH Battery | 1.2V | Select something with adequate storage - 1900mAh Ni-MH Eneloop's seem to do the job |
+| Ni-MH Battery | 1.2V | Select something with adequate storage - 1900mAh Ni-MH Eneloop's seem to do the job but overspec'd |
 | Diode | 1N5817 | Anything with a low voltage drop will do |
 | LED | 20mA / 17500 mCd | Nice and bright with good coverage. Obtained some from [Kitronik](https://www.kitronik.co.uk) |
 | Capacitor | 1μF | Electrolytic. Serves to increase brightness noticeably but uses more power.  Useful for stablizing power for self colour changing LED's |
@@ -66,7 +66,7 @@ I also had a number of PCB's made up by [JLC](https://jlcpcb.com/). Very cheap, 
 <img src="images/black.png"/>
 <img src="images/white.png"/>
 
-The gebers for both [JLC](https://jlcpcb.com/) and [OSHPARK](https://https://oshpark.com/) are included in teh project if you want to make your own
+The gebers for both [JLC](https://jlcpcb.com/) and [OSHPARK](https://https://oshpark.com/) are included in the project if you want to make your own
 
 ### Component Size Comparison 
 
