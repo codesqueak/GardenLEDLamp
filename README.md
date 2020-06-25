@@ -16,7 +16,7 @@ I have a number of post type solar garden lamps, with small circular solar cells
 
 I decided to see if it was possible to replace the electronics package with something that would address the issues:
 
-* A larger, better packed (hopefully!) solar cell was sourced
+* A larger, better packaged (hopefully!) solar cell was sourced
 * An efficient circuit was designed around the QX5252F LED driver
 * The electronics package was small enough to be dipped in a protective coating and housed in a closed container
 
@@ -34,7 +34,9 @@ After looking at and testing various designs / component values I found the foll
 | Ni-MH Battery | 1.2V | Select something with adequate storage - 1900mAh Ni-MH Eneloop's seem to do the job |
 | Diode | 1N5817 | Anything with a low voltage drop will do |
 | LED | 20mA / 17500 mCd | Nice and bright with good coverage. Obtained some from [Kitronik](https://www.kitronik.co.uk) |
-| Capacitor | 1μF | Electrolytic. With diode, serves to increase brightness noticeably |
+| Capacitor | 1μF | Electrolytic. Serves to increase brightness noticeably but uses more power.  Useful for stablizing power for self colour changing LED's |
+
+_*Note*_: The capacitor is optional and is only essential when you use colour changing LED's.  If you just want to change the brightness, change the inductor.
 
 ## Completed Item and Housing
 
@@ -55,7 +57,16 @@ want to solder the connecting wires before coating the whole unit with a conform
 
 <img src="images/back.png"/>
 
-Not the best image - the camera seemed to have problems with the shiny copper surface.
+Not the best image - the camera seemes to have problems with the shiny copper surface.
+
+### PCB - JLC
+
+I also had a number of PCB's made up by [JLC](https://jlcpcb.com/). Very cheap, fast delivery and I like the selection of colours.  
+
+<img src="images/black.png"/>
+<img src="images/white.png"/>
+
+The gebers for both [JLC](https://jlcpcb.com/) and [OSHPARK](https://https://oshpark.com/) are included in teh project if you want to make your own
 
 ### Component Size Comparison 
 
